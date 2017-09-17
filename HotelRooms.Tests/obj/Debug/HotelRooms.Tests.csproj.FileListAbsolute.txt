@@ -1,0 +1,15 @@
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\HotelRooms.Tests.dll
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\HotelRooms.Tests.pdb
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\HotelRooms.ConsoleApp.exe
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\HotelRooms.ConsoleApp.pdb
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\HotelRooms.ConsoleApp.exe.config
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+e:\source\HotelRooms\HotelRooms.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+e:\source\HotelRooms\HotelRooms.Tests\obj\Debug\HotelRooms.Tests.csprojResolveAssemblyReference.cache
+e:\source\HotelRooms\HotelRooms.Tests\obj\Debug\HotelRooms.Tests.dll
+e:\source\HotelRooms\HotelRooms.Tests\obj\Debug\HotelRooms.Tests.pdb
